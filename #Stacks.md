@@ -148,4 +148,4 @@ Now a more complicated problem to try yourself. Your goal here is to use a while
 [1, 2, 3, 4, 5]
 ```
 
-when your finished take a look here for a sample soultion.
+when your finished take a look [here for a sample soultion.](https://github.com/Davids55/Data-Structures/blob/main/stack_soultion.py)

@@ -149,3 +149,6 @@ Now a more complicated problem to try yourself. Your goal here is to use a while
 ```
 
 when your finished take a look [here for a sample soultion.](https://github.com/Davids55/Data-Structures/blob/main/stack_soultion.py)
+
+
+[back to home](https://github.com/Davids55/Data-Structures)

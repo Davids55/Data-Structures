@@ -8,6 +8,6 @@ Big O sounds like a really fancy conecpt but really its just the term for how lo
 
 ![This is an image](https://github.com/Davids55/Data-Structures/blob/main/1_KfZYFUT2OKfjekJlCeYvuQ.jpeg)
 
-[Stacks](https://github.com/Davids55/Data-Structures/blob/main/%23Stacks.md)
+## [Stacks](https://github.com/Davids55/Data-Structures/blob/main/%23Stacks.md)
 
-[Sets](https://github.com/Davids55/Data-Structures/blob/main/%23%20SETS.md)
+## [Sets](https://github.com/Davids55/Data-Structures/blob/main/%23%20SETS.md)

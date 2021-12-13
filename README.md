@@ -8,7 +8,6 @@ Big O sounds like a really fancy concept but really it’s just the term for how
 ![This is an image](https://github.com/Davids55/Data-Structures/blob/main/1_KfZYFUT2OKfjekJlCeYvuQ.jpeg)
 
 
-![This is an image](https://github.com/Davids55/Data-Structures/blob/main/mceu_944294194111620741077326.jpg)
 
 ## [Stacks](https://github.com/Davids55/Data-Structures/blob/main/%23Stacks.md)
 

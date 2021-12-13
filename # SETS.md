@@ -132,3 +132,6 @@ Check if two sets have any elements in common. If yes, display the common elemen
 Set_1 = {10, 15, 20, 40, 55}
 set_2 = {30, 50, 15, 25}
 ```
+
+
+[soultion here](https://github.com/Davids55/Data-Structures/blob/main/stack_soultion.py) 

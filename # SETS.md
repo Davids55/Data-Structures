@@ -134,4 +134,4 @@ set_2 = {30, 50, 15, 25}
 ```
 
 
-[soultion here](https://github.com/Davids55/Data-Structures/blob/main/stack_soultion.py) 
+[soultion here](https://github.com/Davids55/Data-Structures/blob/main/sets_soultion.py) 

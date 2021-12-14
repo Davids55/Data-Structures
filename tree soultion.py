@@ -113,11 +113,11 @@ tree.insert(7)
 # this next insert will have no effect on the tree.
 tree.insert(7)  
 tree.insert(4)
-tree.insert(10)
-tree.insert(1)
+tree.insert(9)
+tree.insert(2)
 tree.insert(6)
 
 
 print("\n=========== PROBLEM 2 TESTS ===========")
 print(3 in tree) # True
-print(2 in tree) # False
+print(1 in tree) # False

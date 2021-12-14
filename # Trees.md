@@ -161,6 +161,7 @@ print(tree.get_height())
 ```
 you should get three as your answer here is a model of what the tree would look like. 
 
+![image](https://github.com/Davids55/Data-Structures/blob/main/tree.png)
 
 # Problem
 Your problem to try is to find data if a certain number is in the tree for this problem use the code we ran above to create the tree.

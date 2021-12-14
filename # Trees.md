@@ -167,7 +167,7 @@ you should get three as your answer here is a model of what the tree would look 
 Your problem to try is to find data if a certain number is in the tree for this problem use the code we ran above to create the tree.
 try to see if 1 and three are in the tree
 
-solution[]
+[solution](https://github.com/Davids55/Data-Structures/blob/main/tree%20soultion.py)
 
 
 

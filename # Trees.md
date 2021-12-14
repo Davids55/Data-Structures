@@ -39,7 +39,7 @@ next  we need the part that actually adds the data
 
 ```python
  def _insert(self, data, node):
-        #if the data entered is larger thatn the root is   goes on the left   
+        #if the data entered is less thatn the root is   goes on the left   
         if data < node.data:
             
             if node.left is None:

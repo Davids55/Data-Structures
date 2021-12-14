@@ -64,7 +64,7 @@ because of the way the tree is designed adding to a tree is O(log n) because it 
 Rather than show a lot more of the same code removing is very similar but instead you call `.remove(value to remove)`
 
 ## traverseing though a tree
-We can have python go through a tree (aka traverse) and when code is written tell us the size (number of node) the height (number of tress or example above has a height of 3) or if it contains the wanted value. remember when you traverse a tree python will search every node.
+We can have python go through a tree (aka traverse) and when code is written tell us the size (number of node) the height (number of layers our example above has a height of 3) or if it contains the wanted value. remember when you traverse a tree python will search every node.
 1. `size()`    O(n)
 2. `height()`   O(n)
 3. `contains()`  O(log n)

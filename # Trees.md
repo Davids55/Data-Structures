@@ -153,8 +153,8 @@ tree.insert(3)
 tree.insert(3)
 tree.insert(7)  
 tree.insert(4)
-tree.insert(10)
-tree.insert(1)
+tree.insert(9)
+tree.insert(2)
 tree.insert(6)
 
 print(tree.get_height())
@@ -164,7 +164,7 @@ you should get three as your answer here is a model of what the tree would look 
 
 # Problem
 Your problem to try is to find data if a certain number is in the tree for this problem use the code we ran above to create the tree.
-try to see if 2 and three are in the tree
+try to see if 1 and three are in the tree
 
 solution[]
 

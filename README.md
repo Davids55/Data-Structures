@@ -13,4 +13,4 @@ Big O sounds like a really fancy concept but really it’s just the term for how
 
 ## [Sets](https://github.com/Davids55/Data-Structures/blob/main/%23%20SETS.md)
 
-## Trees
+## [Trees](https://github.com/Davids55/Data-Structures/blob/main/%23%20Trees.md)
